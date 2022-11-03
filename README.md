@@ -1,1 +1,3 @@
 # EDA-Student-Performance-in-Exams
+
+Pada umumnya, performa siswa saat ujian dipengaruhi oleh beberapa hal. Persiapan, niat, doa, dan dukungan orang terdekat adalah contoh dari beberapa faktor. Namun, ada beberapa faktor yang di luar dugaan dapat mempengaruhi performa siswa dalam ujian. Proyek ini membahas mengenai exploratory data analysis performa siswa pada saat ujian. Di dalam datanya terdapat 5 faktor yaitu jenis kelamin, ras, pendidikan orang tua, jumlah makan siang, dan kehadiran saat tes persiapan ujian. Setiap faktor akan dianalisis, faktor apa saja yang dapat membuat siswa memperoleh nilai tinggi.
